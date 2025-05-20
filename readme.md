@@ -20,6 +20,7 @@ Purpose
 To detect recurring cosmic geometries that may correlate with historical events or future anomalies—whether seismic, societal, life events, consciousness ascension or systemic.
 This engine is the starting point toward a multidimensional, AI-assisted model of planetary influence on time-linked phenomena.
 
+Live Demo: https://qgiengine.com/
 
 More info: office@asar.ro
 
